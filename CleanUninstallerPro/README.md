@@ -27,11 +27,11 @@
 
 ## 📥 下载与使用
 
-### 方式一：安装包
+### 方式一：安装包（推荐）
 
 下载 [CleanUninstallerPro_Setup.exe](https://github.com/Vitaaoshi/CleanUninstallerPro/releases)，以管理员身份运行安装程序，自动创建桌面/开始菜单快捷方式并注册到控制面板。
 
-### 方式二：便携版（推荐）
+### 方式二：便携版
 
 直接下载 [CleanUninstallerPro.exe] [CleanUninstallerPro_Bg.exe] (https://github.com/Vitaaoshi/CleanUninstallerPro/releases) 运行，无需安装，即开即用。
 
